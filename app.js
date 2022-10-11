@@ -25,3 +25,8 @@ console.log("number 1")
 
 console.log("number 2");
 console.log("number 3");
+ 
+let op = {
+    name : "bikal",
+class : "new"
+}
